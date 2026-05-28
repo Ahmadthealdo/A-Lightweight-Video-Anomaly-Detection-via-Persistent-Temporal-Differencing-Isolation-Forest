@@ -1,0 +1,2 @@
+# A-Lightweight-Video-Anomaly-Detection-via-Persistent-Temporal-Differencing-Isolation-Forest
+An unsupervised, lightweight framework for real-time video anomaly detection on the UCSD Ped2 dataset. Utilizes a 3-frame Persistent Temporal Differencing (PTD) pipeline to extract motion vectors and an Isolation Forest to profile anomalies without deep learning overhead. Built for resource-constrained edge surveillance devices.
