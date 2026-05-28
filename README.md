@@ -54,7 +54,7 @@ Configure your processing environment or Google Drive storage layer to match the
               ┣ 📂 Test001_gt/ (Ground truth .bmp validation masks)
               ┗ ...
 
-
+```
 
 ---
 
