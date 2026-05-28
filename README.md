@@ -119,6 +119,3 @@ This work utilizes the benchmark UCSD Anomaly Detection Dataset curated by the U
 
 This project is made open-source under the terms of the [MIT License](https://www.google.com/search?q=LICENSE). Data preservation and intellectual property rights belong to the original dataset authors at UCSD.
 
-```
-
-```
