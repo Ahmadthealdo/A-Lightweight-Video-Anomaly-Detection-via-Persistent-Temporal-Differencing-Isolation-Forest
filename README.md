@@ -1,4 +1,4 @@
-```markdown
+
 # A Lightweight Video Anomaly Detection via Persistent Temporal Differencing & Isolation Forest
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -54,7 +54,7 @@ Configure your processing environment or Google Drive storage layer to match the
               ┣ 📂 Test001_gt/ (Ground truth .bmp validation masks)
               ┗ ...
 
-```
+
 
 ---
 
